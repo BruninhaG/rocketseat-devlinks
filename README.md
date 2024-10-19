@@ -10,6 +10,6 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 - JavaScript
 
 ## Como Usar
-Para usar o Devlinks, clone o repositório em seu ambiente local, você pode fazer isso executando o seguinte comando no terminal: git clone https:
+Para usar o Devlinks, clone o repositório em seu ambiente local, você pode fazer isso executando o seguinte comando no terminal: git clone https://github.com/BruninhaG/rocketseat-devlinks.git
 
 Depois de clonar o repositório, basta abrir o arquivo index.html do projeto em seu navegador.
